@@ -1,0 +1,16 @@
+id,company,stage,deal_value_aed,days_since_contact,score,reason,next_action,scorer,weighted_value_aed
+1,Gulf Fresh Foods,proposal,185000.0,4,79,"buying signals: budget approved, samples",Follow up on proposal and ask for a decision date,heuristic,146150.0
+14,Al Noor Dates,negotiation,150000.0,1,92,buying signals: ready to sign; contacted in last 3 days,Close: confirm final price and send contract,heuristic,138000.0
+5,Oasis Pharma,qualified,240000.0,6,57,buying signals: budget confirmed,Book a discovery call,heuristic,136800.0
+11,Skyline Electronics,proposal,310000.0,31,40,no contact for 31 days,Re-engage today with a short follow-up,heuristic,124000.0
+4,Marina Bites,negotiation,64000.0,2,100,"buying signals: urgent, ready to sign; contacted in last 3 days",Close: confirm final price and send contract,heuristic,64000.0
+10,Nile Organics,negotiation,78000.0,7,82,buying signals: budget approved,Close: confirm final price and send contract,heuristic,63960.0
+2,Palm Cosmetics,qualified,92000.0,12,45,no strong signals,Book a discovery call,heuristic,41400.0
+7,Falcon Logistics,proposal,120000.0,15,25,weak signals: maybe next month; no contact for 15 days,Re-engage today with a short follow-up,heuristic,30000.0
+8,Zaytoon Kitchen,qualified,47000.0,5,57,buying signals: asked for a call,Book a discovery call,heuristic,26790.0
+12,Dune Candles,qualified,29000.0,3,67,buying signals: urgent; contacted in last 3 days,Book a discovery call,heuristic,19430.0
+3,Souq Sweets,lead,15000.0,50,0,"weak signals: just browsing, no timeline; no contact for 50 days",Re-engage today with a short follow-up,heuristic,0.0
+6,Desert Gear,lead,38000.0,23,0,"weak signals: not replied, has not replied; no contact for 23 days",Re-engage today with a short follow-up,heuristic,0.0
+9,Burj Gifts,lead,22000.0,57,0,weak signals: no budget; no contact for 57 days,Re-engage today with a short follow-up,heuristic,0.0
+13,Pearl Dental,lead,12000.0,9,0,"weak signals: no budget, just exploring",Book a discovery call,heuristic,0.0
+15,Metro Fitness,lead,18000.0,86,0,weak signals: no further; no contact for 86 days,Re-engage today with a short follow-up,heuristic,0.0
